@@ -1,0 +1,10 @@
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ForceAltF4\ForceAltF4\obj\Release\ForceAltF4.mainFrm.resources
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ForceAltF4\ForceAltF4\obj\Release\ForceAltF4.Properties.Resources.resources
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ForceAltF4\ForceAltF4\obj\Release\ForceAltF4.csproj.GenerateResource.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ForceAltF4\ForceAltF4\obj\Release\ForceAltF4.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ForceAltF4\ForceAltF4\bin\Release\ForceAltF4.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ForceAltF4\ForceAltF4\bin\Release\ForceAltF4.exe
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ForceAltF4\ForceAltF4\bin\Release\ForceAltF4.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ForceAltF4\ForceAltF4\obj\Release\ForceAltF4.exe
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ForceAltF4\ForceAltF4\obj\Release\ForceAltF4.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ForceAltF4\ForceAltF4\obj\Release\ForceAltF4.csprojAssemblyReference.cache
